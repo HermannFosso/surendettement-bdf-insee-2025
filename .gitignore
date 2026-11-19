@@ -1,0 +1,25 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*
+*password*
+
+# Tableau temporary files and local state
+*.twbr
+*.hyper
+*.tde
+~$*
+
+# OS/editor/temp
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.log
+.vscode/
+.idea/
+__pycache__/
