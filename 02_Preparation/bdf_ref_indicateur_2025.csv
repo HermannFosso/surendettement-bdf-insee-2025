@@ -1,0 +1,76 @@
+﻿code_indicateur;tableau_source;domaine;famille;libelle;unite;population_reference;onglet_source;plage_source
+T01_C02;1;TYPOLOGIE;Statut conjugal;Couples (mariés, pacsés, en union libre);PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;B5:B18
+T01_C03;1;TYPOLOGIE;Statut conjugal;Divorcés/ Séparés;PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;C5:C18
+T01_C04;1;TYPOLOGIE;Statut conjugal;Célibataires;PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;D5:D18
+T01_C05;1;TYPOLOGIE;Statut conjugal;Veufs(ves);PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;E5:E18
+T02_C02;2;TYPOLOGIE;Nombre de personnes a charge;0;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;B25:B38
+T02_C03;2;TYPOLOGIE;Nombre de personnes a charge;1;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;C25:C38
+T02_C04;2;TYPOLOGIE;Nombre de personnes a charge;2;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;D25:D38
+T02_C05;2;TYPOLOGIE;Nombre de personnes a charge;3;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;E25:E38
+T02_C06;2;TYPOLOGIE;Nombre de personnes a charge;4 et plus;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;F25:F38
+T05_C02;5;TYPOLOGIE;Situation au regard du logement;Locataires;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;B88:B101
+T05_C03;5;TYPOLOGIE;Situation au regard du logement;Propriétaires accédants;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;C88:C101
+T05_C04;5;TYPOLOGIE;Situation au regard du logement;Propriétaires;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;D88:D101
+T05_C05;5;TYPOLOGIE;Situation au regard du logement;Hébergés et occupants à titre gratuit;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;E88:E101
+T05_C06;5;TYPOLOGIE;Situation au regard du logement;Autres cas;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;F88:F101
+T07_C02;7;TYPOLOGIE;Professions et categories socioprofessionnelles;Artisans, commerçants, chefs d'entreprise a);PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;B130:B143
+T07_C03;7;TYPOLOGIE;Professions et categories socioprofessionnelles;Cadres, professions intellectuelles supérieures;PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;C130:C143
+T07_C04;7;TYPOLOGIE;Professions et categories socioprofessionnelles;Professions intermédiaires;PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;D130:D143
+T07_C05;7;TYPOLOGIE;Professions et categories socioprofessionnelles;Employés;PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;E130:E143
+T07_C06;7;TYPOLOGIE;Professions et categories socioprofessionnelles;Ouvriers;PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;F130:F143
+T07_C07;7;TYPOLOGIE;Professions et categories socioprofessionnelles;Inactifs ayant déjà travaillé;PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;G130:G143
+T07_C08;7;TYPOLOGIE;Professions et categories socioprofessionnelles;Autres personnes sans activité professionnelle;PCT;Part des personnes surendettees (%);Tableaux-1-à-11_Typologie;H130:H143
+T08_C02;8;TYPOLOGIE;Structure des ressources;Revenus d’activité;PCT;Part du total des ressources (%);Tableaux-1-à-11_Typologie;B151:B164
+T08_C03;8;TYPOLOGIE;Structure des ressources;Pensions;PCT;Part du total des ressources (%);Tableaux-1-à-11_Typologie;C151:C164
+T08_C04;8;TYPOLOGIE;Structure des ressources;Revenus du patrimoine;PCT;Part du total des ressources (%);Tableaux-1-à-11_Typologie;D151:D164
+T08_C05;8;TYPOLOGIE;Structure des ressources;Prestations familiales, de logement et prime d'activité;PCT;Part du total des ressources (%);Tableaux-1-à-11_Typologie;E151:E164
+T08_C06;8;TYPOLOGIE;Structure des ressources;Minima sociaux;PCT;Part du total des ressources (%);Tableaux-1-à-11_Typologie;F151:F164
+T08_C07;8;TYPOLOGIE;Structure des ressources;Autres ressources;PCT;Part du total des ressources (%);Tableaux-1-à-11_Typologie;G151:G164
+T09_C02;9;TYPOLOGIE;Ressources mensuelles par unite de consommation;Ressources (R) < 1 122 euros;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;B172:B185
+T09_C03;9;TYPOLOGIE;Ressources mensuelles par unite de consommation;1 122 euros ≤ R < 1 416 euros;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;C172:C185
+T09_C04;9;TYPOLOGIE;Ressources mensuelles par unite de consommation;1 416 euros ≤ R < 1 683 euros;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;D172:D185
+T09_C05;9;TYPOLOGIE;Ressources mensuelles par unite de consommation;1 683 euros ≤ R < 1 919 euros;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;E172:E185
+T09_C06;9;TYPOLOGIE;Ressources mensuelles par unite de consommation;1 919 euros ≤ R < 2 147 euros;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;F172:F185
+T09_C07;9;TYPOLOGIE;Ressources mensuelles par unite de consommation;2 147 euros ≤ R < 2 388 euros;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;G172:G185
+T09_C08;9;TYPOLOGIE;Ressources mensuelles par unite de consommation;2 388 euros ≤ R < 2 689 euros;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;H172:H185
+T09_C09;9;TYPOLOGIE;Ressources mensuelles par unite de consommation;2 689 euros ≤ R < 3 119 euros;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;I172:I185
+T09_C10;9;TYPOLOGIE;Ressources mensuelles par unite de consommation;3 119 euros ≤ R < 3 913 euros;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;J172:J185
+T09_C11;9;TYPOLOGIE;Ressources mensuelles par unite de consommation;R ≥ 3 913 euros;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;K172:K185
+T10_C02;10;TYPOLOGIE;Patrimoine immobilier et financier;Patrimoine (P) < 2 000 €;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;B193:B206
+T10_C03;10;TYPOLOGIE;Patrimoine immobilier et financier;P ≥ 2 000 € et < 10 000 €;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;C193:C206
+T10_C04;10;TYPOLOGIE;Patrimoine immobilier et financier;P ≥ 10 000 € et < 50 000 €;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;D193:D206
+T10_C05;10;TYPOLOGIE;Patrimoine immobilier et financier;P ≥ 50 000 €;PCT;Part des dossiers traites (%);Tableaux-1-à-11_Typologie;E193:E206
+T13_C02;13;ENDETTEMENT;Endettement hors immobilier;Encours des dettes;K_EUR;"Categorie de dettes ; source tableau 13";Tableaux-12-à-18_Endettement;B25:B38
+T13_C03;13;ENDETTEMENT;Endettement hors immobilier;Nombre de dossiers traites;DOSSIERS;"Categorie de dettes ; source tableau 13";Tableaux-12-à-18_Endettement;C25:C38
+T13_C04;13;ENDETTEMENT;Endettement hors immobilier;Endettement median;EUR;"Categorie de dettes ; source tableau 13";Tableaux-12-à-18_Endettement;D25:D38
+T13_C05;13;ENDETTEMENT;Endettement hors immobilier;Nombre median de dettes par dossier;NB_DETTES;"Categorie de dettes ; source tableau 13";Tableaux-12-à-18_Endettement;E25:E38
+T14_C02;14;ENDETTEMENT;Dettes immobilieres;Encours des dettes;K_EUR;"Categorie de dettes ; source tableau 14";Tableaux-12-à-18_Endettement;B45:B58
+T14_C03;14;ENDETTEMENT;Dettes immobilieres;Nombre de dossiers traités;DOSSIERS;"Categorie de dettes ; source tableau 14";Tableaux-12-à-18_Endettement;C45:C58
+T14_C04;14;ENDETTEMENT;Dettes immobilieres;Part dans l'endettement global;PCT;"Categorie de dettes ; source tableau 14";Tableaux-12-à-18_Endettement;D45:D58
+T14_C05;14;ENDETTEMENT;Dettes immobilieres;Part des dossiers concernés;PCT;"Categorie de dettes ; source tableau 14";Tableaux-12-à-18_Endettement;E45:E58
+T14_C06;14;ENDETTEMENT;Dettes immobilieres;Endettement médian;EUR;"Categorie de dettes ; source tableau 14";Tableaux-12-à-18_Endettement;F45:F58
+T14_C07;14;ENDETTEMENT;Dettes immobilieres;Nombre médian de dettes par dossier;NB_DETTES;"Categorie de dettes ; source tableau 14";Tableaux-12-à-18_Endettement;G45:G58
+T16_C02;16;ENDETTEMENT;Charges courantes hors logement;Encours des dettes;K_EUR;"Categorie de dettes ; source tableau 16";Tableaux-12-à-18_Endettement;B85:B98
+T16_C03;16;ENDETTEMENT;Charges courantes hors logement;Nombre de dossiers traités;DOSSIERS;"Categorie de dettes ; source tableau 16";Tableaux-12-à-18_Endettement;C85:C98
+T16_C04;16;ENDETTEMENT;Charges courantes hors logement;Part dans l'endettement global;PCT;"Categorie de dettes ; source tableau 16";Tableaux-12-à-18_Endettement;D85:D98
+T16_C05;16;ENDETTEMENT;Charges courantes hors logement;Part des dossiers concernés;PCT;"Categorie de dettes ; source tableau 16";Tableaux-12-à-18_Endettement;E85:E98
+T16_C06;16;ENDETTEMENT;Charges courantes hors logement;Endettement médian;EUR;"Categorie de dettes ; source tableau 16";Tableaux-12-à-18_Endettement;F85:F98
+T16_C07;16;ENDETTEMENT;Charges courantes hors logement;Nombre médian de dettes par dossier;NB_DETTES;"Categorie de dettes ; source tableau 16";Tableaux-12-à-18_Endettement;G85:G98
+T17_C02;17;ENDETTEMENT;Dettes de logement;Encours des dettes;K_EUR;"Categorie de dettes ; source tableau 17";Tableaux-12-à-18_Endettement;B106:B119
+T17_C03;17;ENDETTEMENT;Dettes de logement;Nombre de dossiers traités;DOSSIERS;"Categorie de dettes ; source tableau 17";Tableaux-12-à-18_Endettement;C106:C119
+T17_C04;17;ENDETTEMENT;Dettes de logement;Part dans l'endettement global;PCT;"Categorie de dettes ; source tableau 17";Tableaux-12-à-18_Endettement;D106:D119
+T17_C05;17;ENDETTEMENT;Dettes de logement;Part des dossiers concernés;PCT;"Categorie de dettes ; source tableau 17";Tableaux-12-à-18_Endettement;E106:E119
+T17_C06;17;ENDETTEMENT;Dettes de logement;Endettement médian;EUR;"Categorie de dettes ; source tableau 17";Tableaux-12-à-18_Endettement;F106:F119
+T17_C07;17;ENDETTEMENT;Dettes de logement;Nombre médian de dettes par dossier;NB_DETTES;"Categorie de dettes ; source tableau 17";Tableaux-12-à-18_Endettement;G106:G119
+T18_C02;18;ENDETTEMENT;Autres dettes;Encours des dettes;K_EUR;"Categorie de dettes ; source tableau 18";Tableaux-12-à-18_Endettement;B126:B139
+T18_C03;18;ENDETTEMENT;Autres dettes;Nombre de dossiers traités;DOSSIERS;"Categorie de dettes ; source tableau 18";Tableaux-12-à-18_Endettement;C126:C139
+T18_C04;18;ENDETTEMENT;Autres dettes;Part dans l'endettement global;PCT;"Categorie de dettes ; source tableau 18";Tableaux-12-à-18_Endettement;D126:D139
+T18_C05;18;ENDETTEMENT;Autres dettes;Part des dossiers concernés;PCT;"Categorie de dettes ; source tableau 18";Tableaux-12-à-18_Endettement;E126:E139
+T18_C06;18;ENDETTEMENT;Autres dettes;Endettement médian;EUR;"Categorie de dettes ; source tableau 18";Tableaux-12-à-18_Endettement;F126:F139
+T18_C07;18;ENDETTEMENT;Autres dettes;Nombre médian de dettes par dossier;NB_DETTES;"Categorie de dettes ; source tableau 18";Tableaux-12-à-18_Endettement;G126:G139
+T19_C02;19;EFFACEMENT;Taux effacement des dettes;Dettes immobilières;PCT;Taux sur dossiers clos, toutes procedures (%);Tableau-19_Effacements-dettes;B5:B18
+T19_C03;19;EFFACEMENT;Taux effacement des dettes;Dettes à la consommation;PCT;Taux sur dossiers clos, toutes procedures (%);Tableau-19_Effacements-dettes;C5:C18
+T19_C04;19;EFFACEMENT;Taux effacement des dettes;Dettes de logement;PCT;Taux sur dossiers clos, toutes procedures (%);Tableau-19_Effacements-dettes;D5:D18
+T19_C05;19;EFFACEMENT;Taux effacement des dettes;Dettes de charges courantes, hors dettes de logement;PCT;Taux sur dossiers clos, toutes procedures (%);Tableau-19_Effacements-dettes;E5:E18
+T19_C06;19;EFFACEMENT;Taux effacement des dettes;Autres dettes;PCT;Taux sur dossiers clos, toutes procedures (%);Tableau-19_Effacements-dettes;F5:F18
+T19_C07;19;EFFACEMENT;Taux effacement des dettes;Total;PCT;Taux sur dossiers clos, toutes procedures (%);Tableau-19_Effacements-dettes;G5:G18

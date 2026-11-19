@@ -1,0 +1,1051 @@
+﻿annee;region;code_indicateur;valeur
+2025;Auvergne-Rhône-Alpes;T01_C02;41.650457
+2025;Auvergne-Rhône-Alpes;T01_C03;26.790451
+2025;Auvergne-Rhône-Alpes;T01_C04;28.24639
+2025;Auvergne-Rhône-Alpes;T01_C05;3.312703
+2025;Bourgogne-Franche-Comté;T01_C02;42.970537
+2025;Bourgogne-Franche-Comté;T01_C03;27.001211
+2025;Bourgogne-Franche-Comté;T01_C04;25.642405
+2025;Bourgogne-Franche-Comté;T01_C05;4.385847
+2025;Bretagne;T01_C02;40.722314
+2025;Bretagne;T01_C03;23.935876
+2025;Bretagne;T01_C04;31.76709
+2025;Bretagne;T01_C05;3.574719
+2025;Centre-Val de Loire;T01_C02;44.060716
+2025;Centre-Val de Loire;T01_C03;22.392424
+2025;Centre-Val de Loire;T01_C04;29.034953
+2025;Centre-Val de Loire;T01_C05;4.511906
+2025;Corse;T01_C02;34.067548
+2025;Corse;T01_C03;25.256975
+2025;Corse;T01_C04;35.682819
+2025;Corse;T01_C05;4.992658
+2025;Grand Est;T01_C02;45.346279
+2025;Grand Est;T01_C03;22.695896
+2025;Grand Est;T01_C04;28.225745
+2025;Grand Est;T01_C05;3.732079
+2025;Hauts-de-France;T01_C02;48.440121
+2025;Hauts-de-France;T01_C03;21.003858
+2025;Hauts-de-France;T01_C04;26.216035
+2025;Hauts-de-France;T01_C05;4.339987
+2025;Île-de-France;T01_C02;41.192388
+2025;Île-de-France;T01_C03;22.948673
+2025;Île-de-France;T01_C04;32.843052
+2025;Île-de-France;T01_C05;3.015887
+2025;Normandie;T01_C02;44.731547
+2025;Normandie;T01_C03;22.789368
+2025;Normandie;T01_C04;28.137245
+2025;Normandie;T01_C05;4.341841
+2025;Nouvelle-Aquitaine;T01_C02;43.866523
+2025;Nouvelle-Aquitaine;T01_C03;24.53391
+2025;Nouvelle-Aquitaine;T01_C04;27.202108
+2025;Nouvelle-Aquitaine;T01_C05;4.39746
+2025;Occitanie;T01_C02;39.896708
+2025;Occitanie;T01_C03;23.959006
+2025;Occitanie;T01_C04;32.246611
+2025;Occitanie;T01_C05;3.897676
+2025;Pays de la Loire;T01_C02;44.429047
+2025;Pays de la Loire;T01_C03;25.485033
+2025;Pays de la Loire;T01_C04;26.23337
+2025;Pays de la Loire;T01_C05;3.85255
+2025;Provence-Alpes-Côte d'Azur;T01_C02;38.579262
+2025;Provence-Alpes-Côte d'Azur;T01_C03;26.28693
+2025;Provence-Alpes-Côte d'Azur;T01_C04;31.270971
+2025;Provence-Alpes-Côte d'Azur;T01_C05;3.862837
+2025;France métropolitaine;T01_C02;43.210326
+2025;France métropolitaine;T01_C03;23.873159
+2025;France métropolitaine;T01_C04;29.044137
+2025;France métropolitaine;T01_C05;3.872378
+2025;Auvergne-Rhône-Alpes;T02_C02;62.112079
+2025;Auvergne-Rhône-Alpes;T02_C03;16.521545
+2025;Auvergne-Rhône-Alpes;T02_C04;11.550197
+2025;Auvergne-Rhône-Alpes;T02_C05;6.586292
+2025;Auvergne-Rhône-Alpes;T02_C06;3.229888
+2025;Bourgogne-Franche-Comté;T02_C02;63.653484
+2025;Bourgogne-Franche-Comté;T02_C03;16.34994
+2025;Bourgogne-Franche-Comté;T02_C04;11.350796
+2025;Bourgogne-Franche-Comté;T02_C05;5.478514
+2025;Bourgogne-Franche-Comté;T02_C06;3.167266
+2025;Bretagne;T02_C02;63.928737
+2025;Bretagne;T02_C03;16.219343
+2025;Bretagne;T02_C04;11.707543
+2025;Bretagne;T02_C05;5.113373
+2025;Bretagne;T02_C06;3.031004
+2025;Centre-Val de Loire;T02_C02;61.024817
+2025;Centre-Val de Loire;T02_C03;16.372076
+2025;Centre-Val de Loire;T02_C04;13.033387
+2025;Centre-Val de Loire;T02_C05;5.766827
+2025;Centre-Val de Loire;T02_C06;3.802892
+2025;Corse;T02_C02;64.487633
+2025;Corse;T02_C03;16.254417
+2025;Corse;T02_C04;13.250883
+2025;Corse;T02_C05;3.886926
+2025;Corse;T02_C06;2.120141
+2025;Grand Est;T02_C02;59.943126
+2025;Grand Est;T02_C03;16.924887
+2025;Grand Est;T02_C04;13.090802
+2025;Grand Est;T02_C05;6.383605
+2025;Grand Est;T02_C06;3.65758
+2025;Hauts-de-France;T02_C02;56.0865
+2025;Hauts-de-France;T02_C03;17.847464
+2025;Hauts-de-France;T02_C04;14.197224
+2025;Hauts-de-France;T02_C05;7.355788
+2025;Hauts-de-France;T02_C06;4.513025
+2025;Île-de-France;T02_C02;56.324871
+2025;Île-de-France;T02_C03;16.968898
+2025;Île-de-France;T02_C04;14.32575
+2025;Île-de-France;T02_C05;7.500824
+2025;Île-de-France;T02_C06;4.879657
+2025;Normandie;T02_C02;59.173373
+2025;Normandie;T02_C03;16.696222
+2025;Normandie;T02_C04;13.395171
+2025;Normandie;T02_C05;6.656663
+2025;Normandie;T02_C06;4.07857
+2025;Nouvelle-Aquitaine;T02_C02;63.092356
+2025;Nouvelle-Aquitaine;T02_C03;16.81944
+2025;Nouvelle-Aquitaine;T02_C04;11.795227
+2025;Nouvelle-Aquitaine;T02_C05;5.300934
+2025;Nouvelle-Aquitaine;T02_C06;2.992044
+2025;Occitanie;T02_C02;63.643692
+2025;Occitanie;T02_C03;17.271262
+2025;Occitanie;T02_C04;11.003628
+2025;Occitanie;T02_C05;5.239823
+2025;Occitanie;T02_C06;2.841596
+2025;Pays de la Loire;T02_C02;62.016747
+2025;Pays de la Loire;T02_C03;16.372706
+2025;Pays de la Loire;T02_C04;12.880812
+2025;Pays de la Loire;T02_C05;5.398183
+2025;Pays de la Loire;T02_C06;3.331552
+2025;Provence-Alpes-Côte d'Azur;T02_C02;64.500101
+2025;Provence-Alpes-Côte d'Azur;T02_C03;16.406408
+2025;Provence-Alpes-Côte d'Azur;T02_C04;11.093085
+2025;Provence-Alpes-Côte d'Azur;T02_C05;5.374163
+2025;Provence-Alpes-Côte d'Azur;T02_C06;2.626242
+2025;France métropolitaine;T02_C02;60.483831
+2025;France métropolitaine;T02_C03;16.879324
+2025;France métropolitaine;T02_C04;12.684796
+2025;France métropolitaine;T02_C05;6.281007
+2025;France métropolitaine;T02_C06;3.671041
+2025;Auvergne-Rhône-Alpes;T05_C02;75.894917
+2025;Auvergne-Rhône-Alpes;T05_C03;4.934137
+2025;Auvergne-Rhône-Alpes;T05_C04;2.217757
+2025;Auvergne-Rhône-Alpes;T05_C05;13.269331
+2025;Auvergne-Rhône-Alpes;T05_C06;3.683858
+2025;Bourgogne-Franche-Comté;T05_C02;72.470467
+2025;Bourgogne-Franche-Comté;T05_C03;8.029447
+2025;Bourgogne-Franche-Comté;T05_C04;3.321349
+2025;Bourgogne-Franche-Comté;T05_C05;13.114193
+2025;Bourgogne-Franche-Comté;T05_C06;3.064544
+2025;Bretagne;T05_C02;74.54882
+2025;Bretagne;T05_C03;5.900046
+2025;Bretagne;T05_C04;2.915317
+2025;Bretagne;T05_C05;12.609903
+2025;Bretagne;T05_C06;4.025914
+2025;Centre-Val de Loire;T05_C02;69.826817
+2025;Centre-Val de Loire;T05_C03;9.944653
+2025;Centre-Val de Loire;T05_C04;3.731477
+2025;Centre-Val de Loire;T05_C05;12.926263
+2025;Centre-Val de Loire;T05_C06;3.570791
+2025;Corse;T05_C02;75.265018
+2025;Corse;T05_C03;3.35689
+2025;Corse;T05_C04;3.180212
+2025;Corse;T05_C05;15.194346
+2025;Corse;T05_C06;3.003534
+2025;Grand Est;T05_C02;75.142185
+2025;Grand Est;T05_C03;5.775642
+2025;Grand Est;T05_C04;2.520102
+2025;Grand Est;T05_C05;14.208668
+2025;Grand Est;T05_C06;2.353403
+2025;Hauts-de-France;T05_C02;77.79437
+2025;Hauts-de-France;T05_C03;4.833803
+2025;Hauts-de-France;T05_C04;2.228859
+2025;Hauts-de-France;T05_C05;12.283613
+2025;Hauts-de-France;T05_C06;2.859355
+2025;Île-de-France;T05_C02;77.096384
+2025;Île-de-France;T05_C03;5.071986
+2025;Île-de-France;T05_C04;1.192439
+2025;Île-de-France;T05_C05;13.138806
+2025;Île-de-France;T05_C06;3.500385
+2025;Normandie;T05_C02;76.101487
+2025;Normandie;T05_C03;5.442641
+2025;Normandie;T05_C04;2.359842
+2025;Normandie;T05_C05;12.849543
+2025;Normandie;T05_C06;3.246488
+2025;Nouvelle-Aquitaine;T05_C02;71.229678
+2025;Nouvelle-Aquitaine;T05_C03;7.782774
+2025;Nouvelle-Aquitaine;T05_C04;3.839502
+2025;Nouvelle-Aquitaine;T05_C05;13.377724
+2025;Nouvelle-Aquitaine;T05_C06;3.770322
+2025;Occitanie;T05_C02;73.881499
+2025;Occitanie;T05_C03;5.673116
+2025;Occitanie;T05_C04;2.83152
+2025;Occitanie;T05_C05;14.359129
+2025;Occitanie;T05_C06;3.254736
+2025;Pays de la Loire;T05_C02;75.253875
+2025;Pays de la Loire;T05_C03;5.986104
+2025;Pays de la Loire;T05_C04;2.850526
+2025;Pays de la Loire;T05_C05;12.560128
+2025;Pays de la Loire;T05_C06;3.349368
+2025;Provence-Alpes-Côte d'Azur;T05_C02;74.051916
+2025;Provence-Alpes-Côte d'Azur;T05_C03;3.690935
+2025;Provence-Alpes-Côte d'Azur;T05_C04;2.149665
+2025;Provence-Alpes-Côte d'Azur;T05_C05;15.706753
+2025;Provence-Alpes-Côte d'Azur;T05_C06;4.40073
+2025;France métropolitaine;T05_C02;75.017007
+2025;France métropolitaine;T05_C03;5.733462
+2025;France métropolitaine;T05_C04;2.482205
+2025;France métropolitaine;T05_C05;13.384161
+2025;France métropolitaine;T05_C06;3.383165
+2025;Auvergne-Rhône-Alpes;T07_C02;1.399242
+2025;Auvergne-Rhône-Alpes;T07_C03;1.673859
+2025;Auvergne-Rhône-Alpes;T07_C04;3.445796
+2025;Auvergne-Rhône-Alpes;T07_C05;30.986008
+2025;Auvergne-Rhône-Alpes;T07_C06;22.616712
+2025;Auvergne-Rhône-Alpes;T07_C07;12.253171
+2025;Auvergne-Rhône-Alpes;T07_C08;27.625213
+2025;Bourgogne-Franche-Comté;T07_C02;1.082604
+2025;Bourgogne-Franche-Comté;T07_C03;1.038114
+2025;Bourgogne-Franche-Comté;T07_C04;2.788077
+2025;Bourgogne-Franche-Comté;T07_C05;28.132879
+2025;Bourgogne-Franche-Comté;T07_C06;26.175293
+2025;Bourgogne-Franche-Comté;T07_C07;14.236987
+2025;Bourgogne-Franche-Comté;T07_C08;26.546048
+2025;Bretagne;T07_C02;0.969893
+2025;Bretagne;T07_C03;1.212366
+2025;Bretagne;T07_C04;2.606587
+2025;Bretagne;T07_C05;26.874116
+2025;Bretagne;T07_C06;26.267933
+2025;Bretagne;T07_C07;13.032936
+2025;Bretagne;T07_C08;29.036169
+2025;Centre-Val de Loire;T07_C02;0.892308
+2025;Centre-Val de Loire;T07_C03;1.415385
+2025;Centre-Val de Loire;T07_C04;2.646154
+2025;Centre-Val de Loire;T07_C05;35.523077
+2025;Centre-Val de Loire;T07_C06;24.123077
+2025;Centre-Val de Loire;T07_C07;14.261538
+2025;Centre-Val de Loire;T07_C08;21.138462
+2025;Corse;T07_C02;1.273885
+2025;Corse;T07_C03;1.273885
+2025;Corse;T07_C04;1.592357
+2025;Corse;T07_C05;48.089172
+2025;Corse;T07_C06;8.917197
+2025;Corse;T07_C07;15.44586
+2025;Corse;T07_C08;23.407643
+2025;Grand Est;T07_C02;0.895547
+2025;Grand Est;T07_C03;1.062939
+2025;Grand Est;T07_C04;2.51925
+2025;Grand Est;T07_C05;31.452963
+2025;Grand Est;T07_C06;24.648477
+2025;Grand Est;T07_C07;12.696686
+2025;Grand Est;T07_C08;26.724138
+2025;Hauts-de-France;T07_C02;0.504958
+2025;Hauts-de-France;T07_C03;0.982372
+2025;Hauts-de-France;T07_C04;2.575285
+2025;Hauts-de-France;T07_C05;24.371098
+2025;Hauts-de-France;T07_C06;25.17444
+2025;Hauts-de-France;T07_C07;11.467132
+2025;Hauts-de-France;T07_C08;34.924715
+2025;Île-de-France;T07_C02;1.258327
+2025;Île-de-France;T07_C03;4.727362
+2025;Île-de-France;T07_C04;5.378732
+2025;Île-de-France;T07_C05;45.112263
+2025;Île-de-France;T07_C06;14.359734
+2025;Île-de-France;T07_C07;10.801875
+2025;Île-de-France;T07_C08;18.361707
+2025;Normandie;T07_C02;0.640429
+2025;Normandie;T07_C03;1.17606
+2025;Normandie;T07_C04;2.945971
+2025;Normandie;T07_C05;28.155566
+2025;Normandie;T07_C06;28.062413
+2025;Normandie;T07_C07;12.866791
+2025;Normandie;T07_C08;26.152771
+2025;Nouvelle-Aquitaine;T07_C02;1.405397
+2025;Nouvelle-Aquitaine;T07_C03;1.285789
+2025;Nouvelle-Aquitaine;T07_C04;3.842416
+2025;Nouvelle-Aquitaine;T07_C05;29.991777
+2025;Nouvelle-Aquitaine;T07_C06;20.804366
+2025;Nouvelle-Aquitaine;T07_C07;15.967706
+2025;Nouvelle-Aquitaine;T07_C08;26.702549
+2025;Occitanie;T07_C02;1.30462
+2025;Occitanie;T07_C03;1.733536
+2025;Occitanie;T07_C04;3.601108
+2025;Occitanie;T07_C05;32.132964
+2025;Occitanie;T07_C06;18.032347
+2025;Occitanie;T07_C07;15.735859
+2025;Occitanie;T07_C08;27.459566
+2025;Pays de la Loire;T07_C02;1.178271
+2025;Pays de la Loire;T07_C03;1.469013
+2025;Pays de la Loire;T07_C04;3.749044
+2025;Pays de la Loire;T07_C05;24.988523
+2025;Pays de la Loire;T07_C06;25.279265
+2025;Pays de la Loire;T07_C07;13.634277
+2025;Pays de la Loire;T07_C08;29.701607
+2025;Provence-Alpes-Côte d'Azur;T07_C02;1.581278
+2025;Provence-Alpes-Côte d'Azur;T07_C03;1.472847
+2025;Provence-Alpes-Côte d'Azur;T07_C04;2.665582
+2025;Provence-Alpes-Côte d'Azur;T07_C05;34.399566
+2025;Provence-Alpes-Côte d'Azur;T07_C06;12.315894
+2025;Provence-Alpes-Côte d'Azur;T07_C07;16.138068
+2025;Provence-Alpes-Côte d'Azur;T07_C08;31.426764
+2025;France métropolitaine;T07_C02;1.090236
+2025;France métropolitaine;T07_C03;1.808179
+2025;France métropolitaine;T07_C04;3.375843
+2025;France métropolitaine;T07_C05;31.866003
+2025;France métropolitaine;T07_C06;21.396424
+2025;France métropolitaine;T07_C07;13.239816
+2025;France métropolitaine;T07_C08;27.223498
+2025;Auvergne-Rhône-Alpes;T08_C02;55.409798
+2025;Auvergne-Rhône-Alpes;T08_C03;17.639456
+2025;Auvergne-Rhône-Alpes;T08_C04;0.291618
+2025;Auvergne-Rhône-Alpes;T08_C05;13.658446
+2025;Auvergne-Rhône-Alpes;T08_C06;8.586933
+2025;Auvergne-Rhône-Alpes;T08_C07;4.413749
+2025;Bourgogne-Franche-Comté;T08_C02;51.425774
+2025;Bourgogne-Franche-Comté;T08_C03;19.69427
+2025;Bourgogne-Franche-Comté;T08_C04;0.109781
+2025;Bourgogne-Franche-Comté;T08_C05;14.509689
+2025;Bourgogne-Franche-Comté;T08_C06;10.264049
+2025;Bourgogne-Franche-Comté;T08_C07;3.996437
+2025;Bretagne;T08_C02;51.418291
+2025;Bretagne;T08_C03;20.09896
+2025;Bretagne;T08_C04;0.099659
+2025;Bretagne;T08_C05;14.168613
+2025;Bretagne;T08_C06;9.872688
+2025;Bretagne;T08_C07;4.341788
+2025;Centre-Val de Loire;T08_C02;53.340339
+2025;Centre-Val de Loire;T08_C03;19.975807
+2025;Centre-Val de Loire;T08_C04;0.169953
+2025;Centre-Val de Loire;T08_C05;13.258248
+2025;Centre-Val de Loire;T08_C06;8.859739
+2025;Centre-Val de Loire;T08_C07;4.395914
+2025;Corse;T08_C02;46.674249
+2025;Corse;T08_C03;24.71523
+2025;Corse;T08_C04;0.185043
+2025;Corse;T08_C05;12.432609
+2025;Corse;T08_C06;12.14312
+2025;Corse;T08_C07;3.84975
+2025;Grand Est;T08_C02;53.324368
+2025;Grand Est;T08_C03;17.602956
+2025;Grand Est;T08_C04;0.172203
+2025;Grand Est;T08_C05;14.998674
+2025;Grand Est;T08_C06;10.040477
+2025;Grand Est;T08_C07;3.861322
+2025;Hauts-de-France;T08_C02;49.37426
+2025;Hauts-de-France;T08_C03;17.152344
+2025;Hauts-de-France;T08_C04;0.089874
+2025;Hauts-de-France;T08_C05;18.009857
+2025;Hauts-de-France;T08_C06;11.491558
+2025;Hauts-de-France;T08_C07;3.882107
+2025;Île-de-France;T08_C02;62.407846
+2025;Île-de-France;T08_C03;13.892253
+2025;Île-de-France;T08_C04;0.210906
+2025;Île-de-France;T08_C05;12.406019
+2025;Île-de-France;T08_C06;6.724015
+2025;Île-de-France;T08_C07;4.358961
+2025;Normandie;T08_C02;51.868929
+2025;Normandie;T08_C03;19.324593
+2025;Normandie;T08_C04;0.162488
+2025;Normandie;T08_C05;15.224955
+2025;Normandie;T08_C06;9.579613
+2025;Normandie;T08_C07;3.839423
+2025;Nouvelle-Aquitaine;T08_C02;51.595723
+2025;Nouvelle-Aquitaine;T08_C03;21.293935
+2025;Nouvelle-Aquitaine;T08_C04;0.301955
+2025;Nouvelle-Aquitaine;T08_C05;13.56106
+2025;Nouvelle-Aquitaine;T08_C06;9.233509
+2025;Nouvelle-Aquitaine;T08_C07;4.013818
+2025;Occitanie;T08_C02;49.926795
+2025;Occitanie;T08_C03;20.880366
+2025;Occitanie;T08_C04;0.252725
+2025;Occitanie;T08_C05;13.722022
+2025;Occitanie;T08_C06;10.646219
+2025;Occitanie;T08_C07;4.571873
+2025;Pays de la Loire;T08_C02;52.940181
+2025;Pays de la Loire;T08_C03;19.928478
+2025;Pays de la Loire;T08_C04;0.179504
+2025;Pays de la Loire;T08_C05;13.957168
+2025;Pays de la Loire;T08_C06;8.719967
+2025;Pays de la Loire;T08_C07;4.274702
+2025;Provence-Alpes-Côte d'Azur;T08_C02;54.56768
+2025;Provence-Alpes-Côte d'Azur;T08_C03;20.637645
+2025;Provence-Alpes-Côte d'Azur;T08_C04;0.441458
+2025;Provence-Alpes-Côte d'Azur;T08_C05;12.390518
+2025;Provence-Alpes-Côte d'Azur;T08_C06;8.208028
+2025;Provence-Alpes-Côte d'Azur;T08_C07;3.754672
+2025;France métropolitaine;T08_C02;53.844122
+2025;France métropolitaine;T08_C03;18.325495
+2025;France métropolitaine;T08_C04;0.214515
+2025;France métropolitaine;T08_C05;14.239078
+2025;France métropolitaine;T08_C06;9.241875
+2025;France métropolitaine;T08_C07;4.134915
+2025;Auvergne-Rhône-Alpes;T09_C02;41.840564
+2025;Auvergne-Rhône-Alpes;T09_C03;23.382375
+2025;Auvergne-Rhône-Alpes;T09_C04;14.352199
+2025;Auvergne-Rhône-Alpes;T09_C05;9.015163
+2025;Auvergne-Rhône-Alpes;T09_C06;4.961717
+2025;Auvergne-Rhône-Alpes;T09_C07;2.897463
+2025;Auvergne-Rhône-Alpes;T09_C08;1.628885
+2025;Auvergne-Rhône-Alpes;T09_C09;1.088425
+2025;Auvergne-Rhône-Alpes;T09_C10;0.570485
+2025;Auvergne-Rhône-Alpes;T09_C11;0.262723
+2025;Bourgogne-Franche-Comté;T09_C02;43.230609
+2025;Bourgogne-Franche-Comté;T09_C03;22.160665
+2025;Bourgogne-Franche-Comté;T09_C04;13.729224
+2025;Bourgogne-Franche-Comté;T09_C05;9.799169
+2025;Bourgogne-Franche-Comté;T09_C06;4.916898
+2025;Bourgogne-Franche-Comté;T09_C07;2.891274
+2025;Bourgogne-Franche-Comté;T09_C08;1.592798
+2025;Bourgogne-Franche-Comté;T09_C09;0.986842
+2025;Bourgogne-Franche-Comté;T09_C10;0.450139
+2025;Bourgogne-Franche-Comté;T09_C11;0.242382
+2025;Bretagne;T09_C02;40.359897
+2025;Bretagne;T09_C03;25.800421
+2025;Bretagne;T09_C04;14.349147
+2025;Bretagne;T09_C05;9.441458
+2025;Bretagne;T09_C06;4.650619
+2025;Bretagne;T09_C07;2.594064
+2025;Bretagne;T09_C08;1.752746
+2025;Bretagne;T09_C09;0.630989
+2025;Bretagne;T09_C10;0.350549
+2025;Bretagne;T09_C11;0.07011
+2025;Centre-Val de Loire;T09_C02;44.948491
+2025;Centre-Val de Loire;T09_C03;21.832641
+2025;Centre-Val de Loire;T09_C04;13.121272
+2025;Centre-Val de Loire;T09_C05;8.747515
+2025;Centre-Val de Loire;T09_C06;5.24128
+2025;Centre-Val de Loire;T09_C07;2.964034
+2025;Centre-Val de Loire;T09_C08;1.735044
+2025;Centre-Val de Loire;T09_C09;0.777155
+2025;Centre-Val de Loire;T09_C10;0.487981
+2025;Centre-Val de Loire;T09_C11;0.144587
+2025;Corse;T09_C02;38.938053
+2025;Corse;T09_C03;25.309735
+2025;Corse;T09_C04;15.044248
+2025;Corse;T09_C05;9.734513
+2025;Corse;T09_C06;4.424779
+2025;Corse;T09_C07;1.946903
+2025;Corse;T09_C08;3.00885
+2025;Corse;T09_C09;0.884956
+2025;Corse;T09_C10;0.530973
+2025;Corse;T09_C11;0.176991
+2025;Grand Est;T09_C02;45.097648
+2025;Grand Est;T09_C03;22.08051
+2025;Grand Est;T09_C04;12.913511
+2025;Grand Est;T09_C05;8.967716
+2025;Grand Est;T09_C06;5.141491
+2025;Grand Est;T09_C07;2.500996
+2025;Grand Est;T09_C08;1.703866
+2025;Grand Est;T09_C09;1.036269
+2025;Grand Est;T09_C10;0.388601
+2025;Grand Est;T09_C11;0.16939
+2025;Hauts-de-France;T09_C02;49.087051
+2025;Hauts-de-France;T09_C03;23.195042
+2025;Hauts-de-France;T09_C04;11.999553
+2025;Hauts-de-France;T09_C05;7.46552
+2025;Hauts-de-France;T09_C06;3.718801
+2025;Hauts-de-France;T09_C07;2.216763
+2025;Hauts-de-France;T09_C08;1.2396
+2025;Hauts-de-France;T09_C09;0.66447
+2025;Hauts-de-France;T09_C10;0.340611
+2025;Hauts-de-France;T09_C11;0.072589
+2025;Île-de-France;T09_C02;40.539045
+2025;Île-de-France;T09_C03;19.370192
+2025;Île-de-France;T09_C04;13.874592
+2025;Île-de-France;T09_C05;9.784714
+2025;Île-de-France;T09_C06;6.231667
+2025;Île-de-France;T09_C07;3.945985
+2025;Île-de-France;T09_C08;2.938735
+2025;Île-de-France;T09_C09;1.892744
+2025;Île-de-France;T09_C10;0.957441
+2025;Île-de-France;T09_C11;0.464885
+2025;Normandie;T09_C02;44.715111
+2025;Normandie;T09_C03;23.107625
+2025;Normandie;T09_C04;12.427746
+2025;Normandie;T09_C05;9.028351
+2025;Normandie;T09_C06;4.968346
+2025;Normandie;T09_C07;2.711258
+2025;Normandie;T09_C08;1.624002
+2025;Normandie;T09_C09;0.880815
+2025;Normandie;T09_C10;0.45417
+2025;Normandie;T09_C11;0.082576
+2025;Nouvelle-Aquitaine;T09_C02;41.443897
+2025;Nouvelle-Aquitaine;T09_C03;23.540274
+2025;Nouvelle-Aquitaine;T09_C04;13.893774
+2025;Nouvelle-Aquitaine;T09_C05;9.576152
+2025;Nouvelle-Aquitaine;T09_C06;5.451987
+2025;Nouvelle-Aquitaine;T09_C07;2.805135
+2025;Nouvelle-Aquitaine;T09_C08;1.600422
+2025;Nouvelle-Aquitaine;T09_C09;1.125572
+2025;Nouvelle-Aquitaine;T09_C10;0.466057
+2025;Nouvelle-Aquitaine;T09_C11;0.096729
+2025;Occitanie;T09_C02;42.057983
+2025;Occitanie;T09_C03;24.060841
+2025;Occitanie;T09_C04;13.495304
+2025;Occitanie;T09_C05;8.830135
+2025;Occitanie;T09_C06;5.379747
+2025;Occitanie;T09_C07;2.776644
+2025;Occitanie;T09_C08;1.80686
+2025;Occitanie;T09_C09;1.133116
+2025;Occitanie;T09_C10;0.336872
+2025;Occitanie;T09_C11;0.122499
+2025;Pays de la Loire;T09_C02;42.610882
+2025;Pays de la Loire;T09_C03;23.110074
+2025;Pays de la Loire;T09_C04;14.616628
+2025;Pays de la Loire;T09_C05;9.427186
+2025;Pays de la Loire;T09_C06;4.309571
+2025;Pays de la Loire;T09_C07;2.90896
+2025;Pays de la Loire;T09_C08;1.723828
+2025;Pays de la Loire;T09_C09;0.808045
+2025;Pays de la Loire;T09_C10;0.395044
+2025;Pays de la Loire;T09_C11;0.089783
+2025;Provence-Alpes-Côte d'Azur;T09_C02;39.875102
+2025;Provence-Alpes-Côte d'Azur;T09_C03;22.307535
+2025;Provence-Alpes-Côte d'Azur;T09_C04;14.158477
+2025;Provence-Alpes-Côte d'Azur;T09_C05;9.674447
+2025;Provence-Alpes-Côte d'Azur;T09_C06;6.111794
+2025;Provence-Alpes-Côte d'Azur;T09_C07;3.470516
+2025;Provence-Alpes-Côte d'Azur;T09_C08;1.904177
+2025;Provence-Alpes-Côte d'Azur;T09_C09;1.443489
+2025;Provence-Alpes-Côte d'Azur;T09_C10;0.737101
+2025;Provence-Alpes-Côte d'Azur;T09_C11;0.317363
+2025;France métropolitaine;T09_C02;43.180446
+2025;France métropolitaine;T09_C03;22.554922
+2025;France métropolitaine;T09_C04;13.4865
+2025;France métropolitaine;T09_C05;9.051652
+2025;France métropolitaine;T09_C06;5.124937
+2025;France métropolitaine;T09_C07;2.925541
+2025;France métropolitaine;T09_C08;1.827939
+2025;France métropolitaine;T09_C09;1.116049
+2025;France métropolitaine;T09_C10;0.530773
+2025;France métropolitaine;T09_C11;0.201241
+2025;Auvergne-Rhône-Alpes;T10_C02;87.467441
+2025;Auvergne-Rhône-Alpes;T10_C03;1.94984
+2025;Auvergne-Rhône-Alpes;T10_C04;2.009377
+2025;Auvergne-Rhône-Alpes;T10_C05;8.573342
+2025;Bourgogne-Franche-Comté;T10_C02;82.006506
+2025;Bourgogne-Franche-Comté;T10_C03;2.328368
+2025;Bourgogne-Franche-Comté;T10_C04;3.732238
+2025;Bourgogne-Franche-Comté;T10_C05;11.932888
+2025;Bretagne;T10_C02;85.330865
+2025;Bretagne;T10_C03;2.012957
+2025;Bretagne;T10_C04;1.689033
+2025;Bretagne;T10_C05;10.967145
+2025;Centre-Val de Loire;T10_C02;80.396358
+2025;Centre-Val de Loire;T10_C03;1.660418
+2025;Centre-Val de Loire;T10_C04;2.963756
+2025;Centre-Val de Loire;T10_C05;14.979468
+2025;Corse;T10_C02;88.869258
+2025;Corse;T10_C03;0.706714
+2025;Corse;T10_C04;1.413428
+2025;Corse;T10_C05;9.010601
+2025;Grand Est;T10_C02;86.909198
+2025;Grand Est;T10_C03;1.686605
+2025;Grand Est;T10_C04;2.323985
+2025;Grand Est;T10_C05;9.080212
+2025;Hauts-de-France;T10_C02;89.696366
+2025;Hauts-de-France;T10_C03;1.111664
+2025;Hauts-de-France;T10_C04;1.437974
+2025;Hauts-de-France;T10_C05;7.753996
+2025;Île-de-France;T10_C02;88.46027
+2025;Île-de-France;T10_C03;2.115617
+2025;Île-de-France;T10_C04;1.186944
+2025;Île-de-France;T10_C05;8.237169
+2025;Normandie;T10_C02;88.105306
+2025;Normandie;T10_C03;1.35043
+2025;Normandie;T10_C04;1.527759
+2025;Normandie;T10_C05;9.016505
+2025;Nouvelle-Aquitaine;T10_C02;82.704946
+2025;Nouvelle-Aquitaine;T10_C03;1.461432
+2025;Nouvelle-Aquitaine;T10_C04;2.334832
+2025;Nouvelle-Aquitaine;T10_C05;13.498789
+2025;Occitanie;T10_C02;85.792019
+2025;Occitanie;T10_C03;1.56187
+2025;Occitanie;T10_C04;2.095929
+2025;Occitanie;T10_C05;10.550181
+2025;Pays de la Loire;T10_C02;84.91003
+2025;Pays de la Loire;T10_C03;2.316052
+2025;Pays de la Loire;T10_C04;1.977552
+2025;Pays de la Loire;T10_C05;10.796366
+2025;Provence-Alpes-Côte d'Azur;T10_C02;88.602718
+2025;Provence-Alpes-Côte d'Azur;T10_C03;1.916447
+2025;Provence-Alpes-Côte d'Azur;T10_C04;1.723788
+2025;Provence-Alpes-Côte d'Azur;T10_C05;7.757047
+2025;France métropolitaine;T10_C02;86.658979
+2025;France métropolitaine;T10_C03;1.727256
+2025;France métropolitaine;T10_C04;1.923875
+2025;France métropolitaine;T10_C05;9.68989
+2025;Auvergne-Rhône-Alpes;T13_C02;406341.26423
+2025;Auvergne-Rhône-Alpes;T13_C03;13385.0
+2025;Auvergne-Rhône-Alpes;T13_C04;17958.98
+2025;Auvergne-Rhône-Alpes;T13_C05;6.0
+2025;Bourgogne-Franche-Comté;T13_C02;166527.788
+2025;Bourgogne-Franche-Comté;T13_C03;5806.0
+2025;Bourgogne-Franche-Comté;T13_C04;17574.61
+2025;Bourgogne-Franche-Comté;T13_C05;6.0
+2025;Bretagne;T13_C02;123719.46454
+2025;Bretagne;T13_C03;4304.0
+2025;Bretagne;T13_C04;16282.885
+2025;Bretagne;T13_C05;6.0
+2025;Centre-Val de Loire;T13_C02;175369.89796
+2025;Centre-Val de Loire;T13_C03;5559.0
+2025;Centre-Val de Loire;T13_C04;17718.25
+2025;Centre-Val de Loire;T13_C05;6.0
+2025;Corse;T13_C02;16053.26117
+2025;Corse;T13_C03;564.0
+2025;Corse;T13_C04;17410.685
+2025;Corse;T13_C05;5.0
+2025;Grand Est;T13_C02;291746.00487
+2025;Grand Est;T13_C03;10162.0
+2025;Grand Est;T13_C04;16782.435
+2025;Grand Est;T13_C05;6.0
+2025;Hauts-de-France;T13_C02;449401.01958
+2025;Hauts-de-France;T13_C03;18013.0
+2025;Hauts-de-France;T13_C04;14445.16
+2025;Hauts-de-France;T13_C05;6.0
+2025;Île-de-France;T13_C02;686169.92244
+2025;Île-de-France;T13_C03;18136.0
+2025;Île-de-France;T13_C04;22973.785
+2025;Île-de-France;T13_C05;5.0
+2025;Normandie;T13_C02;201961.74826
+2025;Normandie;T13_C03;7316.0
+2025;Normandie;T13_C04;17143.745
+2025;Normandie;T13_C05;6.0
+2025;Nouvelle-Aquitaine;T13_C02;354605.43884
+2025;Nouvelle-Aquitaine;T13_C03;11503.0
+2025;Nouvelle-Aquitaine;T13_C04;17135.71
+2025;Nouvelle-Aquitaine;T13_C05;6.0
+2025;Occitanie;T13_C02;304279.66669
+2025;Occitanie;T13_C03;9879.0
+2025;Occitanie;T13_C04;17932.41
+2025;Occitanie;T13_C05;6.0
+2025;Pays de la Loire;T13_C02;166914.13003
+2025;Pays de la Loire;T13_C03;5582.0
+2025;Pays de la Loire;T13_C04;17258.525
+2025;Pays de la Loire;T13_C05;6.0
+2025;Provence-Alpes-Côte d'Azur;T13_C02;347331.82364
+2025;Provence-Alpes-Côte d'Azur;T13_C03;9820.0
+2025;Provence-Alpes-Côte d'Azur;T13_C04;20423.605
+2025;Provence-Alpes-Côte d'Azur;T13_C05;6.0
+2025;France métropolitaine;T13_C02;3690421.43025
+2025;France métropolitaine;T13_C03;120029.0
+2025;France métropolitaine;T13_C04;17951.26
+2025;France métropolitaine;T13_C05;6.0
+2025;Auvergne-Rhône-Alpes;T14_C02;132872.95595
+2025;Auvergne-Rhône-Alpes;T14_C03;1103.0
+2025;Auvergne-Rhône-Alpes;T14_C04;24.641961
+2025;Auvergne-Rhône-Alpes;T14_C05;8.212345
+2025;Auvergne-Rhône-Alpes;T14_C06;100431.29
+2025;Auvergne-Rhône-Alpes;T14_C07;1.0
+2025;Bourgogne-Franche-Comté;T14_C02;71794.19934
+2025;Bourgogne-Franche-Comté;T14_C03;753.0
+2025;Bourgogne-Franche-Comté;T14_C04;30.124874
+2025;Bourgogne-Franche-Comté;T14_C05;12.893836
+2025;Bourgogne-Franche-Comté;T14_C06;84332.6
+2025;Bourgogne-Franche-Comté;T14_C07;1.0
+2025;Bretagne;T14_C02;42628.64665
+2025;Bretagne;T14_C03;420.0
+2025;Bretagne;T14_C04;25.626168
+2025;Bretagne;T14_C05;9.728978
+2025;Bretagne;T14_C06;85935.72
+2025;Bretagne;T14_C07;2.0
+2025;Centre-Val de Loire;T14_C02;83173.57753
+2025;Centre-Val de Loire;T14_C03;803.0
+2025;Centre-Val de Loire;T14_C04;32.170055
+2025;Centre-Val de Loire;T14_C05;14.341847
+2025;Centre-Val de Loire;T14_C06;93812.43
+2025;Centre-Val de Loire;T14_C07;1.0
+2025;Corse;T14_C02;8880.45021
+2025;Corse;T14_C03;44.0
+2025;Corse;T14_C04;35.616239
+2025;Corse;T14_C05;7.773852
+2025;Corse;T14_C06;110369.535
+2025;Corse;T14_C07;1.0
+2025;Grand Est;T14_C02;98367.02484
+2025;Grand Est;T14_C03;949.0
+2025;Grand Est;T14_C04;25.215006
+2025;Grand Est;T14_C05;9.311224
+2025;Grand Est;T14_C06;90642.11
+2025;Grand Est;T14_C07;1.0
+2025;Hauts-de-France;T14_C02;135938.70461
+2025;Hauts-de-France;T14_C03;1301.0
+2025;Hauts-de-France;T14_C04;23.223899
+2025;Hauts-de-France;T14_C05;7.200974
+2025;Hauts-de-France;T14_C06;92509.19
+2025;Hauts-de-France;T14_C07;1.0
+2025;Île-de-France;T14_C02;209492.44548
+2025;Île-de-France;T14_C03;1362.0
+2025;Île-de-France;T14_C04;23.389667
+2025;Île-de-France;T14_C05;7.488866
+2025;Île-de-France;T14_C06;132316.375
+2025;Île-de-France;T14_C07;1.0
+2025;Normandie;T14_C02;61952.0543
+2025;Normandie;T14_C03;588.0
+2025;Normandie;T14_C04;23.474352
+2025;Normandie;T14_C05;8.022923
+2025;Normandie;T14_C06;96445.775
+2025;Normandie;T14_C07;1.0
+2025;Nouvelle-Aquitaine;T14_C02;152737.14937
+2025;Nouvelle-Aquitaine;T14_C03;1345.0
+2025;Nouvelle-Aquitaine;T14_C04;30.105328
+2025;Nouvelle-Aquitaine;T14_C05;11.633942
+2025;Nouvelle-Aquitaine;T14_C06;99088.02
+2025;Nouvelle-Aquitaine;T14_C07;1.0
+2025;Occitanie;T14_C02;112271.15077
+2025;Occitanie;T14_C03;933.0
+2025;Occitanie;T14_C04;26.95257
+2025;Occitanie;T14_C05;9.407139
+2025;Occitanie;T14_C06;98709.17
+2025;Occitanie;T14_C07;1.0
+2025;Pays de la Loire;T14_C02;61247.94484
+2025;Pays de la Loire;T14_C03;581.0
+2025;Pays de la Loire;T14_C04;26.844051
+2025;Pays de la Loire;T14_C05;10.356506
+2025;Pays de la Loire;T14_C06;91447.48
+2025;Pays de la Loire;T14_C07;1.0
+2025;Provence-Alpes-Côte d'Azur;T14_C02;102938.85668
+2025;Provence-Alpes-Côte d'Azur;T14_C03;700.0
+2025;Provence-Alpes-Côte d'Azur;T14_C04;22.86155
+2025;Provence-Alpes-Côte d'Azur;T14_C05;7.102273
+2025;Provence-Alpes-Côte d'Azur;T14_C06;111299.77
+2025;Provence-Alpes-Côte d'Azur;T14_C07;1.0
+2025;France métropolitaine;T14_C02;1274295.16057
+2025;France métropolitaine;T14_C03;10882.0
+2025;France métropolitaine;T14_C04;25.667027
+2025;France métropolitaine;T14_C05;9.032729
+2025;France métropolitaine;T14_C06;98696.435
+2025;France métropolitaine;T14_C07;1.0
+2025;Auvergne-Rhône-Alpes;T16_C02;29447.29268
+2025;Auvergne-Rhône-Alpes;T16_C03;8690.0
+2025;Auvergne-Rhône-Alpes;T16_C04;5.461149
+2025;Auvergne-Rhône-Alpes;T16_C05;64.701065
+2025;Auvergne-Rhône-Alpes;T16_C06;1749.205
+2025;Auvergne-Rhône-Alpes;T16_C07;2.0
+2025;Bourgogne-Franche-Comté;T16_C02;14311.71869
+2025;Bourgogne-Franche-Comté;T16_C03;3963.0
+2025;Bourgogne-Franche-Comté;T16_C04;6.005203
+2025;Bourgogne-Franche-Comté;T16_C05;67.859589
+2025;Bourgogne-Franche-Comté;T16_C06;1899.0
+2025;Bourgogne-Franche-Comté;T16_C07;3.0
+2025;Bretagne;T16_C02;10542.62686
+2025;Bretagne;T16_C03;3047.0
+2025;Bretagne;T16_C04;6.33769
+2025;Bretagne;T16_C05;70.581422
+2025;Bretagne;T16_C06;1900.58
+2025;Bretagne;T16_C07;3.0
+2025;Centre-Val de Loire;T16_C02;13986.58428
+2025;Centre-Val de Loire;T16_C03;3799.0
+2025;Centre-Val de Loire;T16_C04;5.409761
+2025;Centre-Val de Loire;T16_C05;67.851402
+2025;Centre-Val de Loire;T16_C06;2007.45
+2025;Centre-Val de Loire;T16_C07;2.0
+2025;Corse;T16_C02;1219.72722
+2025;Corse;T16_C03;371.0
+2025;Corse;T16_C04;4.89188
+2025;Corse;T16_C05;65.547703
+2025;Corse;T16_C06;2132.29
+2025;Corse;T16_C07;2.0
+2025;Grand Est;T16_C02;24512.11739
+2025;Grand Est;T16_C03;6841.0
+2025;Grand Est;T16_C04;6.283337
+2025;Grand Est;T16_C05;67.121272
+2025;Grand Est;T16_C06;1862.16
+2025;Grand Est;T16_C07;2.0
+2025;Hauts-de-France;T16_C02;44945.18801
+2025;Hauts-de-France;T16_C03;12636.0
+2025;Hauts-de-France;T16_C04;7.678479
+2025;Hauts-de-France;T16_C05;69.939669
+2025;Hauts-de-France;T16_C06;2109.33
+2025;Hauts-de-France;T16_C07;2.0
+2025;Île-de-France;T16_C02;62158.60453
+2025;Île-de-France;T16_C03;9530.0
+2025;Île-de-France;T16_C04;6.939959
+2025;Île-de-France;T16_C05;52.400066
+2025;Île-de-France;T16_C06;1736.865
+2025;Île-de-France;T16_C07;2.0
+2025;Normandie;T16_C02;17967.06454
+2025;Normandie;T16_C03;5033.0
+2025;Normandie;T16_C04;6.807929
+2025;Normandie;T16_C05;68.672397
+2025;Normandie;T16_C06;1889.59
+2025;Normandie;T16_C07;3.0
+2025;Nouvelle-Aquitaine;T16_C02;25871.54608
+2025;Nouvelle-Aquitaine;T16_C03;7576.0
+2025;Nouvelle-Aquitaine;T16_C04;5.099423
+2025;Nouvelle-Aquitaine;T16_C05;65.530663
+2025;Nouvelle-Aquitaine;T16_C06;1920.25
+2025;Nouvelle-Aquitaine;T16_C07;2.0
+2025;Occitanie;T16_C02;20815.60315
+2025;Occitanie;T16_C03;6270.0
+2025;Occitanie;T16_C04;4.997134
+2025;Occitanie;T16_C05;63.218391
+2025;Occitanie;T16_C06;1760.825
+2025;Occitanie;T16_C07;2.0
+2025;Pays de la Loire;T16_C02;12461.77407
+2025;Pays de la Loire;T16_C03;3850.0
+2025;Pays de la Loire;T16_C04;5.461808
+2025;Pays de la Loire;T16_C05;68.627451
+2025;Pays de la Loire;T16_C06;1880.565
+2025;Pays de la Loire;T16_C07;3.0
+2025;Provence-Alpes-Côte d'Azur;T16_C02;25845.43038
+2025;Provence-Alpes-Côte d'Azur;T16_C03;5474.0
+2025;Provence-Alpes-Côte d'Azur;T16_C04;5.739976
+2025;Provence-Alpes-Côte d'Azur;T16_C05;55.539773
+2025;Provence-Alpes-Côte d'Azur;T16_C06;1529.825
+2025;Provence-Alpes-Côte d'Azur;T16_C07;2.0
+2025;France métropolitaine;T16_C02;304085.27788
+2025;France métropolitaine;T16_C03;77080.0
+2025;France métropolitaine;T16_C04;6.124927
+2025;France métropolitaine;T16_C05;63.981141
+2025;France métropolitaine;T16_C06;1857.865
+2025;France métropolitaine;T16_C07;2.0
+2025;Auvergne-Rhône-Alpes;T17_C02;40340.4879
+2025;Auvergne-Rhône-Alpes;T17_C03;6942.0
+2025;Auvergne-Rhône-Alpes;T17_C04;7.481347
+2025;Auvergne-Rhône-Alpes;T17_C05;51.686397
+2025;Auvergne-Rhône-Alpes;T17_C06;3384.19
+2025;Auvergne-Rhône-Alpes;T17_C07;1.0
+2025;Bourgogne-Franche-Comté;T17_C02;14890.73278
+2025;Bourgogne-Franche-Comté;T17_C03;2844.0
+2025;Bourgogne-Franche-Comté;T17_C04;6.248157
+2025;Bourgogne-Franche-Comté;T17_C05;48.69863
+2025;Bourgogne-Franche-Comté;T17_C06;3252.72
+2025;Bourgogne-Franche-Comté;T17_C07;1.0
+2025;Bretagne;T17_C02;10100.51068
+2025;Bretagne;T17_C03;2090.0
+2025;Bretagne;T17_C04;6.071912
+2025;Bretagne;T17_C05;48.41325
+2025;Bretagne;T17_C06;3061.925
+2025;Bretagne;T17_C07;1.0
+2025;Centre-Val de Loire;T17_C02;14646.05395
+2025;Centre-Val de Loire;T17_C03;2484.0
+2025;Centre-Val de Loire;T17_C04;5.664832
+2025;Centre-Val de Loire;T17_C05;44.365065
+2025;Centre-Val de Loire;T17_C06;3380.835
+2025;Centre-Val de Loire;T17_C07;1.0
+2025;Corse;T17_C02;1514.94136
+2025;Corse;T17_C03;229.0
+2025;Corse;T17_C04;6.075876
+2025;Corse;T17_C05;40.459364
+2025;Corse;T17_C06;3670.96
+2025;Corse;T17_C07;1.0
+2025;Grand Est;T17_C02;28258.95965
+2025;Grand Est;T17_C03;4953.0
+2025;Grand Est;T17_C04;7.243788
+2025;Grand Est;T17_C05;48.596939
+2025;Grand Est;T17_C06;3501.33
+2025;Grand Est;T17_C07;1.0
+2025;Hauts-de-France;T17_C02;41966.39895
+2025;Hauts-de-France;T17_C03;8568.0
+2025;Hauts-de-France;T17_C04;7.16958
+2025;Hauts-de-France;T17_C05;47.423479
+2025;Hauts-de-France;T17_C06;2923.16
+2025;Hauts-de-France;T17_C07;1.0
+2025;Île-de-France;T17_C02;93367.27847
+2025;Île-de-France;T17_C03;10042.0
+2025;Île-de-France;T17_C04;10.424383
+2025;Île-de-France;T17_C05;55.215264
+2025;Île-de-France;T17_C06;5272.59
+2025;Île-de-France;T17_C07;1.0
+2025;Normandie;T17_C02;20651.92935
+2025;Normandie;T17_C03;3743.0
+2025;Normandie;T17_C04;7.825255
+2025;Normandie;T17_C05;51.071087
+2025;Normandie;T17_C06;3251.3
+2025;Normandie;T17_C07;1.0
+2025;Nouvelle-Aquitaine;T17_C02;25517.08548
+2025;Nouvelle-Aquitaine;T17_C03;4727.0
+2025;Nouvelle-Aquitaine;T17_C04;5.029557
+2025;Nouvelle-Aquitaine;T17_C05;40.887466
+2025;Nouvelle-Aquitaine;T17_C06;3267.39
+2025;Nouvelle-Aquitaine;T17_C07;1.0
+2025;Occitanie;T17_C02;23100.17906
+2025;Occitanie;T17_C03;4008.0
+2025;Occitanie;T17_C04;5.545585
+2025;Occitanie;T17_C05;40.411373
+2025;Occitanie;T17_C06;3127.815
+2025;Occitanie;T17_C07;1.0
+2025;Pays de la Loire;T17_C02;14392.34907
+2025;Pays de la Loire;T17_C03;2624.0
+2025;Pays de la Loire;T17_C04;6.30795
+2025;Pays de la Loire;T17_C05;46.773619
+2025;Pays de la Loire;T17_C06;3000.0
+2025;Pays de la Loire;T17_C07;1.0
+2025;Provence-Alpes-Côte d'Azur;T17_C02;33377.09075
+2025;Provence-Alpes-Côte d'Azur;T17_C03;4362.0
+2025;Provence-Alpes-Côte d'Azur;T17_C04;7.412672
+2025;Provence-Alpes-Côte d'Azur;T17_C05;44.257305
+2025;Provence-Alpes-Côte d'Azur;T17_C06;4265.26
+2025;Provence-Alpes-Côte d'Azur;T17_C07;1.0
+2025;France métropolitaine;T17_C02;362123.99745
+2025;France métropolitaine;T17_C03;57616.0
+2025;France métropolitaine;T17_C04;7.293951
+2025;France métropolitaine;T17_C05;47.824824
+2025;France métropolitaine;T17_C06;3547.415
+2025;France métropolitaine;T17_C07;1.0
+2025;Auvergne-Rhône-Alpes;T18_C02;93193.42932
+2025;Auvergne-Rhône-Alpes;T18_C03;7547.0
+2025;Auvergne-Rhône-Alpes;T18_C04;17.283192
+2025;Auvergne-Rhône-Alpes;T18_C05;56.190902
+2025;Auvergne-Rhône-Alpes;T18_C06;2150.0
+2025;Auvergne-Rhône-Alpes;T18_C07;2.0
+2025;Bourgogne-Franche-Comté;T18_C02;27782.41049
+2025;Bourgogne-Franche-Comté;T18_C03;3271.0
+2025;Bourgogne-Franche-Comté;T18_C04;11.65751
+2025;Bourgogne-Franche-Comté;T18_C05;56.010274
+2025;Bourgogne-Franche-Comté;T18_C06;2075.0
+2025;Bourgogne-Franche-Comté;T18_C07;2.0
+2025;Bretagne;T18_C02;31602.58156
+2025;Bretagne;T18_C03;2561.0
+2025;Bretagne;T18_C04;18.99786
+2025;Bretagne;T18_C05;59.323604
+2025;Bretagne;T18_C06;2000.0
+2025;Bretagne;T18_C07;2.0
+2025;Centre-Val de Loire;T18_C02;40618.15267
+2025;Centre-Val de Loire;T18_C03;3038.0
+2025;Centre-Val de Loire;T18_C04;15.710376
+2025;Centre-Val de Loire;T18_C05;54.259689
+2025;Centre-Val de Loire;T18_C06;1863.635
+2025;Centre-Val de Loire;T18_C07;2.0
+2025;Corse;T18_C02;2726.61557
+2025;Corse;T18_C03;264.0
+2025;Corse;T18_C04;10.935458
+2025;Corse;T18_C05;46.64311
+2025;Corse;T18_C06;2046.82
+2025;Corse;T18_C07;1.0
+2025;Grand Est;T18_C02;60736.40682
+2025;Grand Est;T18_C03;5693.0
+2025;Grand Est;T18_C04;15.568925
+2025;Grand Est;T18_C05;55.857535
+2025;Grand Est;T18_C06;1912.5
+2025;Grand Est;T18_C07;2.0
+2025;Hauts-de-France;T18_C02;78844.35763
+2025;Hauts-de-France;T18_C03;9702.0
+2025;Hauts-de-France;T18_C04;13.469846
+2025;Hauts-de-France;T18_C05;53.700116
+2025;Hauts-de-France;T18_C06;1570.855
+2025;Hauts-de-France;T18_C07;2.0
+2025;Île-de-France;T18_C02;137183.87637
+2025;Île-de-France;T18_C03;8667.0
+2025;Île-de-France;T18_C04;15.316472
+2025;Île-de-France;T18_C05;47.654918
+2025;Île-de-France;T18_C06;2600.0
+2025;Île-de-France;T18_C07;1.0
+2025;Normandie;T18_C02;37125.37222
+2025;Normandie;T18_C03;4209.0
+2025;Normandie;T18_C04;14.067234
+2025;Normandie;T18_C05;57.42939
+2025;Normandie;T18_C06;1866.01
+2025;Normandie;T18_C07;2.0
+2025;Nouvelle-Aquitaine;T18_C02;68731.25463
+2025;Nouvelle-Aquitaine;T18_C03;6193.0
+2025;Nouvelle-Aquitaine;T18_C04;13.547306
+2025;Nouvelle-Aquitaine;T18_C05;53.56803
+2025;Nouvelle-Aquitaine;T18_C06;1955.0
+2025;Nouvelle-Aquitaine;T18_C07;2.0
+2025;Occitanie;T18_C02;63906.42184
+2025;Occitanie;T18_C03;5540.0
+2025;Occitanie;T18_C04;15.341807
+2025;Occitanie;T18_C05;55.858036
+2025;Occitanie;T18_C06;1858.3
+2025;Occitanie;T18_C07;2.0
+2025;Pays de la Loire;T18_C02;38102.13155
+2025;Pays de la Loire;T18_C03;3269.0
+2025;Pays de la Loire;T18_C04;16.69959
+2025;Pays de la Loire;T18_C05;58.270945
+2025;Pays de la Loire;T18_C06;1952.0
+2025;Pays de la Loire;T18_C07;2.0
+2025;Provence-Alpes-Côte d'Azur;T18_C02;83285.76168
+2025;Provence-Alpes-Côte d'Azur;T18_C03;5160.0
+2025;Provence-Alpes-Côte d'Azur;T18_C04;18.496821
+2025;Provence-Alpes-Côte d'Azur;T18_C05;52.353896
+2025;Provence-Alpes-Côte d'Azur;T18_C06;2370.31
+2025;Provence-Alpes-Côte d'Azur;T18_C07;2.0
+2025;France métropolitaine;T18_C02;763838.77235
+2025;France métropolitaine;T18_C03;65114.0
+2025;France métropolitaine;T18_C04;15.385345
+2025;France métropolitaine;T18_C05;54.048625
+2025;France métropolitaine;T18_C06;1999.515
+2025;France métropolitaine;T18_C07;2.0
+2025;Auvergne-Rhône-Alpes;T19_C02;5.515358
+2025;Auvergne-Rhône-Alpes;T19_C03;30.671509
+2025;Auvergne-Rhône-Alpes;T19_C04;49.418502
+2025;Auvergne-Rhône-Alpes;T19_C05;32.340959
+2025;Auvergne-Rhône-Alpes;T19_C06;21.714705
+2025;Auvergne-Rhône-Alpes;T19_C07;23.163885
+2025;Bourgogne-Franche-Comté;T19_C02;6.711221
+2025;Bourgogne-Franche-Comté;T19_C03;27.007735
+2025;Bourgogne-Franche-Comté;T19_C04;46.166742
+2025;Bourgogne-Franche-Comté;T19_C05;34.108614
+2025;Bourgogne-Franche-Comté;T19_C06;23.209705
+2025;Bourgogne-Franche-Comté;T19_C07;21.362241
+2025;Bretagne;T19_C02;7.172985
+2025;Bretagne;T19_C03;25.370601
+2025;Bretagne;T19_C04;45.799577
+2025;Bretagne;T19_C05;35.432736
+2025;Bretagne;T19_C06;18.860879
+2025;Bretagne;T19_C07;20.252869
+2025;Centre-Val de Loire;T19_C02;5.196745
+2025;Centre-Val de Loire;T19_C03;25.738823
+2025;Centre-Val de Loire;T19_C04;46.25927
+2025;Centre-Val de Loire;T19_C05;41.567007
+2025;Centre-Val de Loire;T19_C06;21.237707
+2025;Centre-Val de Loire;T19_C07;19.552006
+2025;Corse;T19_C02;7.115439
+2025;Corse;T19_C03;34.981288
+2025;Corse;T19_C04;61.277003
+2025;Corse;T19_C05;26.588227
+2025;Corse;T19_C06;30.840685
+2025;Corse;T19_C07;25.300283
+2025;Grand Est;T19_C02;6.850629
+2025;Grand Est;T19_C03;30.39725
+2025;Grand Est;T19_C04;56.179892
+2025;Grand Est;T19_C05;42.926144
+2025;Grand Est;T19_C06;24.587027
+2025;Grand Est;T19_C07;24.963987
+2025;Hauts-de-France;T19_C02;4.368951
+2025;Hauts-de-France;T19_C03;27.542577
+2025;Hauts-de-France;T19_C04;47.000384
+2025;Hauts-de-France;T19_C05;44.858362
+2025;Hauts-de-France;T19_C06;23.078732
+2025;Hauts-de-France;T19_C07;23.088928
+2025;Île-de-France;T19_C02;4.862742
+2025;Île-de-France;T19_C03;32.835982
+2025;Île-de-France;T19_C04;42.038934
+2025;Île-de-France;T19_C05;42.407037
+2025;Île-de-France;T19_C06;21.055006
+2025;Île-de-France;T19_C07;24.663565
+2025;Normandie;T19_C02;4.478562
+2025;Normandie;T19_C03;27.489122
+2025;Normandie;T19_C04;46.106259
+2025;Normandie;T19_C05;40.631415
+2025;Normandie;T19_C06;26.067117
+2025;Normandie;T19_C07;23.013624
+2025;Nouvelle-Aquitaine;T19_C02;5.124058
+2025;Nouvelle-Aquitaine;T19_C03;31.67266
+2025;Nouvelle-Aquitaine;T19_C04;44.716162
+2025;Nouvelle-Aquitaine;T19_C05;37.329624
+2025;Nouvelle-Aquitaine;T19_C06;24.673289
+2025;Nouvelle-Aquitaine;T19_C07;23.063614
+2025;Occitanie;T19_C02;5.433825
+2025;Occitanie;T19_C03;31.566714
+2025;Occitanie;T19_C04;48.451743
+2025;Occitanie;T19_C05;39.45102
+2025;Occitanie;T19_C06;25.828372
+2025;Occitanie;T19_C07;23.646842
+2025;Pays de la Loire;T19_C02;5.083569
+2025;Pays de la Loire;T19_C03;26.263655
+2025;Pays de la Loire;T19_C04;46.774557
+2025;Pays de la Loire;T19_C05;40.600548
+2025;Pays de la Loire;T19_C06;24.377073
+2025;Pays de la Loire;T19_C07;21.118443
+2025;Provence-Alpes-Côte d'Azur;T19_C02;7.699997
+2025;Provence-Alpes-Côte d'Azur;T19_C03;37.008105
+2025;Provence-Alpes-Côte d'Azur;T19_C04;48.748581
+2025;Provence-Alpes-Côte d'Azur;T19_C05;50.285637
+2025;Provence-Alpes-Côte d'Azur;T19_C06;27.749932
+2025;Provence-Alpes-Côte d'Azur;T19_C07;28.698377
+2025;France métropolitaine;T19_C02;5.559576
+2025;France métropolitaine;T19_C03;30.427936
+2025;France métropolitaine;T19_C04;46.799431
+2025;France métropolitaine;T19_C05;40.694724
+2025;France métropolitaine;T19_C06;23.579075
+2025;France métropolitaine;T19_C07;23.624381
